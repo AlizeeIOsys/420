@@ -1,3 +1,2 @@
-# 420
-Public stuff
+# 420 repo of bugs or broken things to be fixed
 
